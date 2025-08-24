@@ -1,12 +1,6 @@
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=soft&color=000000&height=120&text=Gyubuk's%20Git%20Hub&animation=twinkling&fontColor=ff9eea&fontSize=40" />
     </div>
-
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎓 Education </h2>
-  <ul>
-    <li>숭실대학교 산업정보시스템공학과 (2023~) </li>
-  </ul>
-
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📜 Certifications </h2>
   <ul>
     <li>SQLD</li>
